@@ -172,7 +172,7 @@ Please ensure your code adheres to our coding standards and includes appropriate
 
 ## Contact Information
 
-- **GitHub**: [Your GitHub Profile](https://github.com/kashifhussaiin)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/kashifhussaiin)
+- **GitHub**: [GitHub Profile](https://github.com/kashifhussaiin)
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/kashifhussaiin)
 - **Email**: kashifhussain.fj@gmail.com
 
