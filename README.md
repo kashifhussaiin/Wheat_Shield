@@ -2,9 +2,6 @@
 Final Year Project
 Sure, I'll update the README file to include information about using React.js for the frontend.
 
-### Updated README.md
-
-```markdown
 # WheatShield
 
 WheatShield is an integrated platform designed to assist farmers with wheat crop management. It leverages advanced technology for disease detection, weather monitoring, agricultural commerce, and location-based services to ensure better crop health and productivity.
@@ -179,14 +176,3 @@ Please ensure your code adheres to our coding standards and includes appropriate
 - **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/kashifhussaiin)
 - **Email**: kashifhussain.fj@gmail.com
 
-
-- **GitHub**: [Your GitHub Profile](https://github.com/kashifhussaiin)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/kashifhussaiin)
-- **Email**: kashifhussain.fj@gmail.com
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-
-
-This will add the README file to your GitHub repository, making it visible on the repository's main page.
